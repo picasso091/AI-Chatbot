@@ -1,0 +1,13 @@
+export const APPLY_WORK_FROM_HOME: string = "ApplyWorkFromHome";
+export const APPLY_LEAVE: string = "ApplyLeave";
+export const FETCH_DAILY_WFH_DATA: string = "FetchDailyWFHData";
+export const FETCH_DAILY_LEAVE_DATA: string = "FetchDailyLeaveData";
+export const FETCH_EMPLOYEE_INFO: string = "FetchEmployeeInfo";
+export const FETCH_MY_LEAVE_BALANCE: string = "FetchMyLeaveBalance";
+export const FETCH_MY_LEAVE_INFO: string = "FetchMyLeaveInfo";
+export const FETCH_UPCOMING_HOLIDAYS: string = "FetchUpcomingHolidays";
+export const MEETING_ROOM_INFO: string = "MeetingRoomInfo";
+export const FETCH_MY_FLOATING_HOLIDAYS: string = "FetchMyFloatingHolidays";
+export const FETCH_UPCOMING_BIRTHDAYS: string = "FetchUpcomingBirthdays";
+export const FETCH_MY_INFO: string = "FetchMyInfo";
+export const CREATE_SR: string = "CreateSR";

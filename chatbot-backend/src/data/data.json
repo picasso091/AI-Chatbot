@@ -1,0 +1,268 @@
+{
+    "workFromHome": [
+        {
+            "fullName": "John Cena",
+            "department": "JWnM",
+            "country": "Nepal"
+        },
+        {
+            "fullName": "Emma Stones",
+            "department": "JWnM",
+            "country": "Nepal"
+        },
+        {
+            "fullName": "Ryan Reynolds",
+            "department": "JPT",
+            "country": "Portugal"
+        },
+        {
+            "fullName": "Mohammad Acharya",
+            "department": "JWnM",
+            "country": "Nepal"
+        },
+        {
+            "fullName": "Jimmy Crooks",
+            "department": "JNL",
+            "country": "Netherlands"
+        }
+    ],
+    "leave": [
+        {
+            "fullName": "John Cena",
+            "department": "JWnM",
+            "country": "Nepal",
+            "reportingDate": "17/06/24"
+        },
+        {
+            "fullName": "Emma Stones",
+            "department": "JWnM",
+            "country": "Nepal",
+            "reportingDate": "13/06/24"
+        },
+        {
+            "fullName": "Ryan Reynolds",
+            "department": "JPT",
+            "country": "Portugal",
+            "reportingDate": "13/06/24"
+        },
+        {
+            "fullName": "Jimmy Crooks",
+            "department": "JNL",
+            "country": "Netherlands",
+            "reportingDate": "13/06/24"
+        }
+    ],
+    "upcomingPublicHolidays": [
+        {
+            "description": "New Year's Day",
+            "date": "01/01/2024",
+            "day": "Monday",
+            "country": "Portugal"
+        },
+        {
+            "description": "Good Friday",
+            "date": "29/03/2024",
+            "day": "Friday",
+            "country": "Portugal"
+        },
+        {
+            "description": "International Labour Day",
+            "date": "01/05/2024",
+            "day": "Wednesday",
+            "country": "Nepal"
+        },
+        {
+            "description": "Janai Purnima",
+            "date": "19/08/2024",
+            "day": "Monday",
+            "country": "Nepal"
+        },
+        {
+            "description": "Haritalika Teej(Only for female)",
+            "date": "06/09/2024",
+            "day": "Friday",
+            "country": "Nepal"
+        },
+        {
+            "description": "Phulpati(Dashain)",
+            "date": "10/10/2024",
+            "day": "Thursday",
+            "country": "Nepal"
+        },
+        {
+            "description": "Maha Asthami (Dashain)",
+            "date": "11/10/2024",
+            "day": "Friday",
+            "country": "Nepal"
+        },
+        {
+            "description": "Dashain",
+            "date": "14/10/2024",
+            "day": "Monday",
+            "country": "Nepal"
+        },
+        {
+            "description": "Immaculate Conception",
+            "date": "08/12/2024",
+            "day": "Sunday",
+            "country": "Portugal"
+        },
+        {
+            "description": "Christmas Day",
+            "date": "25/12/2024",
+            "day": "Wednesday",
+            "country": "Portugal"
+        },
+        {
+            "description": "Easter Sunday",
+            "date": "31/03/2024",
+            "day": "Sunday",
+            "country": "Netherlands"
+        },
+        {
+            "description": "Easter Monday",
+            "date": "01/04/2024",
+            "day": "Monday",
+            "country": "Netherlands"
+        },
+        {
+            "description": "King's Day",
+            "date": "27/04/2024",
+            "day": "Saturday",
+            "country": "Netherlands"
+        },
+        {
+            "description": "Liberation Day",
+            "date": "05/05/2024",
+            "day": "Sunday",
+            "country": "Netherlands"
+        },
+        {
+            "description": "Pentecost Monday",
+            "date": "20/05/2024",
+            "day": "Monday",
+            "country": "Netherlands"
+        }
+    ],
+    "upcomingFloatingHolidays": [],
+    "myFloatingHolidays": [
+        {
+            "description": "Ghatasthaapana",
+            "date": "03/10/2024",
+            "day": "Thursday",
+            "status": "Approved"
+        },
+        {
+            "description": "Christmas",
+            "date": "25/12/2024",
+            "day": "Wednesday",
+            "status": "Approved"
+        },
+        {
+            "description": "New Year 2025",
+            "date": "01/01/2025",
+            "day": "Wednesday",
+            "status": "Approved"
+        }
+    ],
+    "myLeaveBalance": [
+        {
+            "leaveType": "Sick Leave",
+            "totalBalance": 9,
+            "usedBalance": 3,
+            "remainingBalance": 6
+        },
+        {
+            "leaveType": "Annual Leave",
+            "totalBalance": 12,
+            "usedBalance": 6,
+            "remainingBalance": 6
+        },
+        {
+            "leaveType": "Compensatory Leave",
+            "totalBalance": 3,
+            "usedBalance": 1,
+            "remainingBalance": 2
+        },
+        {
+            "leaveType": "Leave Without Pay",
+            "totalBalance": 0,
+            "usedBalance": 0,
+            "remainingBalance": 0
+        },
+        {
+            "leaveType": "Annual Leave (F)",
+            "totalBalance": 10,
+            "usedBalance": 7,
+            "remainingBalance": 3
+        }
+    ],
+    "myLeaveInfo": [
+        {
+            "appliedOn": "03/06/2024",
+            "duration": "03/06/24 - 03/06/24",
+            "days": 1,
+            "leaveType": "Sick Leave",
+            "status": "Approved"
+        },
+        {
+            "appliedOn": "06/02/2024",
+            "duration": "06/02/24 - 06/02/24",
+            "days": 1,
+            "leaveType": "Sick Leave",
+            "status": "Approved"
+        },
+        {
+            "appliedOn": "26/12/2023",
+            "duration": "02/01/24 - 03/01/24",
+            "days": 2,
+            "leaveType": "Annual Leave (F)",
+            "status": "Approved"
+        },
+        {
+            "appliedOn": "05/10/2023",
+            "duration": "16/10/23 - 20/10/23 ",
+            "days": 5,
+            "leaveType": "Annual Leave (F)",
+            "status": "Approved"
+        }
+    ],
+    "upcomingBirthdays": [
+        {
+            "fullName": "Emma Stones",
+            "date": "June 20",
+            "department": "JPT",
+            "country": "Nepal"
+        },
+        {
+            "fullName": "Mohammad Acharya",
+            "date": "June 26",
+            "department": "JWnM",
+            "country": "Nepal"
+        },
+        {
+            "fullName": "Emily Blunt",
+            "date": "July 14",
+            "department": "JWnM",
+            "country": "Netherlands"
+        },
+        {
+            "fullName": "Kendrick Lamar",
+            "date": "September 02",
+            "department": "JPT",
+            "country": "Portugal"
+        },
+        {
+            "fullName": "Drake Kumar Khatri",
+            "date": "September 05",
+            "department": "JWnM",
+            "country": "Netherlands"
+        },
+        {
+            "fullName": "Tim Tatman",
+            "date": "September 05",
+            "department": "JPT",
+            "country": "Portugal"
+        }
+    ]
+}
